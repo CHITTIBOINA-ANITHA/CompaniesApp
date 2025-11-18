@@ -33,9 +33,8 @@ const CompaniesTable = () => {
       display="flex"
       justifyContent="center"
       alignItems="center"
-      minHeight="100vh" // centers vertically
+      minHeight="100vh" 
       bgcolor="#b6d3adff"
-      //padding={2}
       minWidth={1500}
     >
     <Paper
@@ -44,8 +43,8 @@ const CompaniesTable = () => {
           padding: "16px",
           width: "80%",
           maxWidth: "900px",
-          border: "2px solid #181a1bff", // blue border
-          borderRadius: "12px",        // rounded corners
+          border: "2px solid #181a1bff", 
+          borderRadius: "12px",       
         }}
       >
     <MaterialReactTable
