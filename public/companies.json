@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Google", "industry": "Tech", "location": "USA" },
+    { "id": 2, "name": "Infosys", "industry": "IT", "location": "India" },
+    { "id": 3, "name": "Reliance", "industry": "Energy", "location": "India" },
+    { "id": 4, "name": "Tesla", "industry": "Automobile", "location": "USA" },
+    { "id": 5, "name": "TCS", "industry": "IT", "location": "India" }
+  ]
